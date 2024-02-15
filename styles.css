@@ -1,3 +1,13 @@
 .navbar{
 	background-color: #e2f2fc;
 }
+
+#toggle-btn{
+	width: 34px;
+}
+#toggle-btn>span{
+	border: 1px solid black;
+	height: 112px;
+	width: 1px;
+	padding: 3px;
+}
